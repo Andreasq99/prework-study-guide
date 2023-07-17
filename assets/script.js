@@ -26,4 +26,4 @@ function listTopics() {
 console.log("Here's what we learned in the prework:");
 listTopics();
 console.log("Which topic should we study first?");
-selectTopic();
+selectTopic(); 
